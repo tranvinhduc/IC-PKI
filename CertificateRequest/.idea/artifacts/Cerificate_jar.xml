@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cerificate:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Cerificate_jar</output-path>
+    <root id="archive" name="Cerificate.jar">
+      <element id="module-output" name="Cerificate" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/javax.json/1.1.4/javax.json-1.1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
